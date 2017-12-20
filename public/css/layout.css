@@ -1,0 +1,155 @@
+.titulo a{	
+	font-family:  "Raleway", Arial, sans-serif;
+	letter-spacing: 5px;
+   	font-size: 270%;
+	display: inline;  
+   	color:#FFFFFF;
+
+}
+
+.titulo a:hover{
+	color:#014702;
+	letter-spacing: 9px;	
+	
+}
+
+body {
+	font-size: 140%;
+   	font-family: "Open Sans", sans-serif;
+   	
+}
+
+header{
+	background-color: #17882c;
+	border-radius: 0px 3px 0px 3px;
+	width: 100%;
+		
+}
+
+label{
+	font-weight: lighter;
+	
+}
+
+
+.botao_barra li a {
+	display: block;
+	margin-top: 4%;
+	margin-bottom: 4%;
+	font-size: 120%;
+	color: #FFFFFF;	
+	background-color:#17882c;
+
+}
+
+
+.botao_barra li a:hover {
+	background-color: #006400;
+}
+
+a{	
+	display: block;
+	background: transparent;
+}
+
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: none; color: black;}
+a:active {text-decoration: none;}
+
+
+
+.menu{
+	margin-top: 2%;	
+	padding:0.5%;
+	border-radius: 10px;
+	background-color: transparent;
+	text-align-last: center;
+	font-size: 120%;
+}
+
+.index_corpo{	
+	padding-left: 5%;
+	padding-bottom: 1%;	
+	border-radius: 5px;
+	margin-bottom: 2.8%;
+	font-size: 120%;
+	color: #363636;
+   	font-family: "Goudy Bookletter 1911", sans-serif;
+}
+
+.data_atual{
+	display: inline-block;
+	float: right;
+	font-size:80%;
+
+}
+
+.titulo_boby{	
+	letter-spacing: 0.5px;
+	color:black;	
+	font-size: 160%;
+	font-family:  "Raleway", Arial, sans-serif;	
+	font-weight: 500;
+}
+
+.submenu{
+	font-size: 90%;
+	
+}
+
+.tabela{
+	background-color: #ffffff;
+	padding-left: 1%;
+
+}
+
+
+.tabela  tr > td > a {
+	float: right;
+	margin-left:10%;
+	display: inline;
+}
+
+.tabela  tr > td > button{
+	float: right;
+	margin-left:10%;
+	display: inline;
+}
+
+.titulo_teste{
+	width: 45%;
+}
+
+.negrito{
+	font-weight: bold;
+}
+
+.coluna_visualizar_horario{
+	padding-right:5%;
+	padding-left:5%;
+}
+
+.coluna_titulo{
+	width: 50%;
+}
+
+.table-hover>tbody>tr:hover>td, .table-hover>tbody>tr:hover>th {
+
+  background-color: #dfedc4;
+  color:black;
+}
+
+.btn-apagar{
+	float: right;
+	color: #a30b0b;
+}
+
+.btn-editar{
+	float: right;
+	color: #17882c;
+}
+
+.teste{
+	float: right;
+}

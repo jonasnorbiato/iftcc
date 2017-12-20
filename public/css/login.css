@@ -1,0 +1,40 @@
+.corpo_login{
+	background-color: #ffffff;
+	padding: 3%;
+	
+}
+
+.logo_ifes{
+	width: 26%;
+	margin-left: 35%;
+
+}
+
+.link{
+  background: #f2f2f2;
+  width: 100%;
+  padding: 9px 10px;
+  box-sizing: border-box;
+  color: #666666;
+  font-size: 102%;
+  text-align: center;
+  border-radius: 3%;
+}
+
+.link > a{
+	text-decoration:none;	
+}
+
+h1{
+	text-align: center;
+	font-size: 250%;
+	font-family:  "Raleway", Arial, sans-serif;
+	font-weight:500;
+	letter-spacing:1.7px;
+}
+
+.info{
+	font-style:unset;
+	font-size: 90%;
+	text-align: justify;
+}
